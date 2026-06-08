@@ -1,0 +1,6 @@
+{
+  "name": "Aladin",
+  "description": "알라딘 도서 검색, 베스트셀러 및 카테고리별 도서 정리 사이트 (Aladin Online Bookstore with bestseller catalogs, search, sorting and language selection)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
